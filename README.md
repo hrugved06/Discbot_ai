@@ -1,0 +1,1 @@
+In this repository, you will find how to create a virtual character whose statements will be based on a transcript of one of my favorite animated science fiction sitcom "Rick and Morty". You can use characters and sitcoms of your choice by downloading and training the dataset. I added code to convert a regular text file with dialogs into a format that the model understands.
