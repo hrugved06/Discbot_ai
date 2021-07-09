@@ -1,7 +1,7 @@
 # Build a Discord AI Chatbot that Speaks like Your Favorite Character!
 
 <div align="center">
-  <img src="https://github.com/RuolinZheng08/twewy-discord-chatbot/blob/main/gif-demo/icon.png" width=200>
+  <img src="https://github.com/hrugved06/ML-DL-Projects/blob/main/Discbot.ai/gif-demo/download.png" width=200>
 </div>
 
 This is a Discord AI Chatbot that uses the [Microsoft DialoGPT conversational model](https://huggingface.co/microsoft/DialoGPT-medium) fine-tuned on the game transcript of Rick and Morty. Refer the Tutorial [ Tutorial on freeCodeCamp](https://www.freecodecamp.org/news/discord-ai-chatbot/) .
